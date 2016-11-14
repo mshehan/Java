@@ -1,0 +1,16 @@
+//-----------------------------------------------------------------------------
+// Name: Matthew Shehan
+// CruzID: 1499521
+// Pa3
+// README
+//-----------------------------------------------------------------------------
+
+
+Files included in this are
+---------------------------
+List.java - List ADT 
+ListClient.java - Test client for List
+Matrix.java - Matrix ADT using Lists
+MatrixClient.java - tests Matrix client
+Sparse.java - uses matrix client. run the main program
+Makefile 

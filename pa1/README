@@ -1,0 +1,15 @@
+README
+List.java  ADT. holds integer values. contains accessor and mutator
+           functions.Contains an inner node class used in the ADT
+
+ListClient.java Tester file for List.java
+
+Lex.java   The main program. Uses the List ADT and sorts values
+           lexicographically. takes 2 files as command line args
+
+Makefile   updates class files and creates executable jar file
+
+
+thank you for extending the due date :) 
+
+
